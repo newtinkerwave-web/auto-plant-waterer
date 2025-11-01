@@ -2,7 +2,7 @@
 Code for Automatic Plant Waterer using MOSFET and a moisture sensor.
 # ===============================================================
 # Raspberry Pi Automatic Plant Waterer
-# Author: Logan (TinkerWaves)
+# Author: TinkerWaves
 # Description:
 # Monitors soil moisture using an analog sensor via MCP3008,
 # and activates a water pump through a MOSFET when the soil is dry.
